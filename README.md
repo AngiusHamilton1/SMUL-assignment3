@@ -18,7 +18,7 @@ This repository contains the implementation, feature extraction modules, and all
 
 1. Clone this repository:
    ```bash
-   git clone (https://github.com/AngiusHamilton1/SMUL-assignment3.git)
+   git clone https://github.com/AngiusHamilton1/SMUL-assignment3.git
    cd SMUL-assignment3
    ```
 2. Install the dependencies:

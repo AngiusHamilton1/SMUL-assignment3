@@ -48,6 +48,7 @@ This repository contains the implementation, feature extraction modules, and all
 - **`network_architecture.py`:** Implements the CNN architecture used for environmental sound classification.
 
 This architecture supports robust feature extraction for variable-length audio samples, enabling state-of-the-art performance on the ESC-50 dataset.
+####Please take note to the PATHS for the Audio set and Metasat on the code and adjust according to how you have set up in your device.
 
 ## Results
 The model achieved significant performance improvements on the ESC-50 dataset, with state-of-the-art accuracy when using data augmentation and cross-validation.
